@@ -20,7 +20,7 @@ the raw data to a list of dictionaries, and each dictionary has three attributes
 and "labels". You can also set the tokenizer in the Config class to be the roberta tokenizer, to get input of 
 the roberta model (which will be much smaller, about 200 MB). 
 
-### Training_With_RoBERTa.ipynb
+### Training_With_RoBERTa.py
 Records how we used the RoBERTa model for training. 
 The pickle file produced by data_preprocessing.py was further split into train, dev, and test set, and is saved in the google drive folder above.
 
