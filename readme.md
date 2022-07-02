@@ -1,6 +1,9 @@
 The related preprocessed datasets and trained models can be found at: 
 https://drive.google.com/drive/folders/15aQejnRjGDa5OEmzegyd6iG0Nv9Nur3z?usp=sharing
 
+Find the link below the purpose of this project:
+https://www.kaggle.com/competitions/feedback-prize-2021
+
 Below are explanations of each script:
 
 ### utils.py
